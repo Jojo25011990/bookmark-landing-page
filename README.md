@@ -30,8 +30,8 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ### Links
 
--   Solution URL: [Github](https://github.com/Jojo25011990/single-page-portfolio-ak)
--   Live Site URL: [Github Pages](https://jojo25011990.github.io/single-page-portfolio-ak)
+-   Solution URL: [Github](https://github.com/Jojo25011990/bookmark-landing-page)
+-   Live Site URL: [Github Pages](https://jojo25011990.github.io/bookmark-landing-page)
 
 ## My process
 
