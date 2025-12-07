@@ -30,6 +30,7 @@ const MobileNavigation = ({
 						<Image
 							isNeedTagImg={true}
 							srcImg={"./images/icon-close.svg"}
+							altImg="Icon close svg"
 						/>
 					}
 					className="block sm:hidden cursor-pointer"

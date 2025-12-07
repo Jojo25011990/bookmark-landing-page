@@ -57,6 +57,7 @@ const Accordion = ({
 						<Image
 							isNeedTagImg={true}
 							srcImg={"./images/icon-arrow.svg"}
+							altImg="Icon arrow-up svg"
 						/>
 					}
 					className={`${
@@ -71,6 +72,7 @@ const Accordion = ({
 						<Image
 							isNeedTagImg={true}
 							srcImg={"./images/icon-arrow-down.svg"}
+							altImg="Icon arrow-down svg"
 						/>
 					}
 					className={`${

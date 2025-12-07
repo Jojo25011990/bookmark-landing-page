@@ -43,6 +43,7 @@ const Header = () => {
 						<Image
 							isNeedTagImg={true}
 							srcImg={"./images/icon-hamburger.svg"}
+							altImg="Icon hamburger menu svg"
 						/>
 					}
 					className="block sm:hidden cursor-pointer"
@@ -84,6 +85,7 @@ const Header = () => {
 
 						<Image
 							srcImg={"./images/bg-blue-right.svg"}
+							altImg="Blue background image"
 							isNeedTagImg={true}
 							className="w-full max-w-[500px] absolute bottom-0 -right-9 -z-10 hero-section-img-blue"
 						/>
